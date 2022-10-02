@@ -44,8 +44,6 @@ Data sales yang terpisah akan digabungkan untuk mempermudah dalam input di Table
 - Menghilangkan underscore dan mengonversi awal kata menjadi huruf besar di kolom product_category_name
 - Menerjemahkan bahasa pada kolom product_category_name 
 
-Github: https://github.com/satriahelmy/brazcommerce_sales
-
 #### 3. Wrangling Data Marketing
 Langkah-langkah wrangling data marketing:
 - Check null values dari masing-masing features. Didapatkan bahwa kolom Income memiliki null values. Kemudian isi nilai null values pada kolom income dengan nilai median.
